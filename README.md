@@ -16,6 +16,8 @@ Eu sou o Miguel Vitor, sou um Programador Front End,atualmente estou aprendendo 
    - <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+<br>
+<br>
 
 [![Miguel stats](https://github-readme-stats.vercel.app/api?username=MIGUELVITOR16)](https://github.com/anuraghazra/github-readme-stats)
 
